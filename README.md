@@ -2,23 +2,23 @@
 Repo contains bugs I have encountered during my development career with resources and solutions to them.
 
 # Document Layout
-### Expected Behavior
+## Expected Behavior
 Describe expected behavior of the program where the error is occurring.
 
-### Problem
+## Problem
 Describe the problem in detail. Includes stack trace and logs.
 
-### Recreating Error
+## Recreating Error
 Describe how to recreate the error from one's local machine.
 
-### Possible Solutions
+## Possible Solutions
 Write down possible solutions to the problem.
 
-### Experiments
+## Experiments
 Track all experiments and results.
 
-### Solution
+## Solution
 If solution was found, include steps on how the error was resolved.
 
-### Resources
+## Resources
 Include links to all resources that was used to help fix the problem.
